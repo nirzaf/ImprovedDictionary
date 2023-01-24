@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ImprovedDictionary/1.0.0": {
+        "runtime": {
+          "ImprovedDictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImprovedDictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

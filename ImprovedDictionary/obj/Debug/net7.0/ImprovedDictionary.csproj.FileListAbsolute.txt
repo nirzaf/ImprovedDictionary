@@ -1,0 +1,15 @@
+C:\Users\mmfazrin\RiderProjects\ImprovedDictionary\ImprovedDictionary\bin\Debug\net7.0\ImprovedDictionary.exe
+C:\Users\mmfazrin\RiderProjects\ImprovedDictionary\ImprovedDictionary\bin\Debug\net7.0\ImprovedDictionary.deps.json
+C:\Users\mmfazrin\RiderProjects\ImprovedDictionary\ImprovedDictionary\bin\Debug\net7.0\ImprovedDictionary.runtimeconfig.json
+C:\Users\mmfazrin\RiderProjects\ImprovedDictionary\ImprovedDictionary\bin\Debug\net7.0\ImprovedDictionary.dll
+C:\Users\mmfazrin\RiderProjects\ImprovedDictionary\ImprovedDictionary\bin\Debug\net7.0\ImprovedDictionary.pdb
+C:\Users\mmfazrin\RiderProjects\ImprovedDictionary\ImprovedDictionary\obj\Debug\net7.0\ImprovedDictionary.csproj.AssemblyReference.cache
+C:\Users\mmfazrin\RiderProjects\ImprovedDictionary\ImprovedDictionary\obj\Debug\net7.0\ImprovedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmfazrin\RiderProjects\ImprovedDictionary\ImprovedDictionary\obj\Debug\net7.0\ImprovedDictionary.AssemblyInfoInputs.cache
+C:\Users\mmfazrin\RiderProjects\ImprovedDictionary\ImprovedDictionary\obj\Debug\net7.0\ImprovedDictionary.AssemblyInfo.cs
+C:\Users\mmfazrin\RiderProjects\ImprovedDictionary\ImprovedDictionary\obj\Debug\net7.0\ImprovedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\mmfazrin\RiderProjects\ImprovedDictionary\ImprovedDictionary\obj\Debug\net7.0\ImprovedDictionary.dll
+C:\Users\mmfazrin\RiderProjects\ImprovedDictionary\ImprovedDictionary\obj\Debug\net7.0\refint\ImprovedDictionary.dll
+C:\Users\mmfazrin\RiderProjects\ImprovedDictionary\ImprovedDictionary\obj\Debug\net7.0\ImprovedDictionary.pdb
+C:\Users\mmfazrin\RiderProjects\ImprovedDictionary\ImprovedDictionary\obj\Debug\net7.0\ImprovedDictionary.genruntimeconfig.cache
+C:\Users\mmfazrin\RiderProjects\ImprovedDictionary\ImprovedDictionary\obj\Debug\net7.0\ref\ImprovedDictionary.dll
